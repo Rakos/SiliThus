@@ -1,7 +1,10 @@
 //SiliThus EMULÁTOR//
 
-Administrátor> Patrik Mikuliè (Rakos)
+Administrátor> Patrik      
+            Git name>(Rakos)
 
+Tester EMU>  Frederik
+         Git name> ---
 
 
 >END (zatial)
