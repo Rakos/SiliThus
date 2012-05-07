@@ -1,1 +1,0 @@
-UPDATE `version`  SET `core_version` ='SiliThus Rev: 0.1 (Win32,little-endian)' , `db_version` ='TDB 335.11.46'  ;
